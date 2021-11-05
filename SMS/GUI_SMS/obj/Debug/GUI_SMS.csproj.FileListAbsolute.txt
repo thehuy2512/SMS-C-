@@ -1,0 +1,16 @@
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\GUI_SMS.exe.config
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\GUI_SMS.exe
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\GUI_SMS.pdb
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\BUS_SMS.dll
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\DAL_SMS.dll
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\BUS_SMS.pdb
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\bin\Debug\DAL_SMS.pdb
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.AssemblyReference.cache
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.GUI_Student.resources
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.Properties.Resources.resources
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.GenerateResource.cache
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.CoreCompileInputs.cache
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.CopyComplete
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.exe
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.pdb
+D:\HK1_Năm4\.NET_framework\SMS\GUI_SMS\obj\Debug\GUI_SMS.GUI_Subject.resources

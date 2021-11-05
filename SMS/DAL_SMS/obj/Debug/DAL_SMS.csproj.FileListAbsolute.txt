@@ -1,0 +1,6 @@
+D:\HK1_Năm4\.NET_framework\SMS\DAL_SMS\bin\Debug\DAL_SMS.dll
+D:\HK1_Năm4\.NET_framework\SMS\DAL_SMS\bin\Debug\DAL_SMS.pdb
+D:\HK1_Năm4\.NET_framework\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.AssemblyReference.cache
+D:\HK1_Năm4\.NET_framework\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.CoreCompileInputs.cache
+D:\HK1_Năm4\.NET_framework\SMS\DAL_SMS\obj\Debug\DAL_SMS.dll
+D:\HK1_Năm4\.NET_framework\SMS\DAL_SMS\obj\Debug\DAL_SMS.pdb
